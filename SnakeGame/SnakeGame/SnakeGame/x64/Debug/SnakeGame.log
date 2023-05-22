@@ -1,6 +1,0 @@
-﻿  AuthForm.cpp
-D:\Studying\istu\1 курс\ЯП ВУ\Курсовая работа\SnakeGame\SnakeGame\AuthForm.cpp(137,10): warning C4551: в вызове функции отсутствует список аргументов
-  MainMenuForm.cpp
-  Создание кода...
-  AuthForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  SnakeGame.vcxproj -> D:\Studying\istu\1 курс\ЯП ВУ\Курсовая работа\SnakeGame\x64\Debug\SnakeGame.exe
